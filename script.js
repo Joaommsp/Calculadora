@@ -73,3 +73,7 @@ copyBtn.addEventListener('click', () => {
   }
 
 })
+
+clear.addEventListener('click', () => {
+  input.value = ""
+})
